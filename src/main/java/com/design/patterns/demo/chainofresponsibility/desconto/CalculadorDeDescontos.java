@@ -1,4 +1,4 @@
-package com.design.patterns.demo.chainofresponsability.desconto;
+package com.design.patterns.demo.chainofresponsibility.desconto;
 
 import com.design.patterns.demo.model.Orcamento;
 
